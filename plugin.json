@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "title": "Maths",
+  "description": "This plug-in adds support for math equations",
+  "includes": [
+    "math.html"
+  ]
+}
